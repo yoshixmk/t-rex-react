@@ -1,4 +1,5 @@
 # 🦖 T-Rex Runner
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0398bd6-939b-48eb-8dee-ff61950d7887/deploy-status)](https://app.netlify.com/sites/nifty-cray-c31e96/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
